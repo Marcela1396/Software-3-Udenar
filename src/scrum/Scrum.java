@@ -17,8 +17,9 @@ public class Scrum {
     public static void main(String[] args) {
         // TODO code application logic here
         int mul;
+        // Mi primer programa
         for(int i=1; i<=10; i++){
-            mul = 5 * i;
+            mul = i*5;
             System.out.println(mul);
         }
     }
